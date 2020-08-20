@@ -1,0 +1,1 @@
+A aplicação será arquitetada baseada em módulos, onde módulos são funcionalidades semelhantes da aplicação.

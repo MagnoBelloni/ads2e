@@ -1,0 +1,2 @@
+Utilizaremos linguagem Python para operarmos a IA, 
+NodeJs para o Backend da aplicação e para se integrar com os meios de pagamento e React Native para o mobile. 

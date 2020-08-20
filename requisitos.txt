@@ -1,0 +1,15 @@
+O sistema descrito terá como funcionalidades:
+
+-localizador de passageiros
+-localização por GPS
+-piloto automático 
+-software para pagamentos 
+-opção de cancelamento de corrida
+-opção de encontrar corrida. 
+-chat com IA
+-opção de ligação
+-software de rotas e automatizações de tráfego 
+-start para decolar
+
+
+ 

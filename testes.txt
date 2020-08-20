@@ -1,0 +1,1 @@
+Os testes serão automatizados realizados com a ferrameta Jest, tanto no backend quanto no frontend e serão aprovados por uma equipe de QA, e então pelo product owner e só após toda essa equipe aceitar as funcionalidades, será validado com um pequeno grupo de usuários em formato de Beta, e após toda a correção de eventuais bugs será liberado oficialmente para todo

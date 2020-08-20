@@ -1,0 +1,3 @@
+O sistema será subido dentro de um container Docker em um servidor com Linux, e terá uma ferramente de log construída pela própria empresa.
+
+A ferramente de log visa monitorar os maiores pontos de utilização do sistema, erros, e quanto tempo estão usando o aplicativo, assim poderá ser observado comportamentos em comum para melhorar o sistema de forma mais agradável e útil para os usuários"
